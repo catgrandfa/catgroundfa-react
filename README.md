@@ -1,2 +1,15 @@
-# catgroundfa-react
-react-ts-ant
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
