@@ -8,3 +8,6 @@ declare module '*.svg' {
   const url: string;
   export default url;
 }
+declare const API_URL: string;
+
+declare const REACT_APP_ENV: 'test' | 'dev' | 'pre' | 'prod' | null;
